@@ -7,7 +7,7 @@ This R app is for analyzing transit data and displays:
 
 Transit data is publicly available from [GTFS](https://transitfeeds.com/p/ttc/33).
 
-For the purpose of this app Toronto Transit Commission data from [11 October 2020 - 21 November 2020](https://transitfeeds.com/p/ttc/33/latest)
+For the purpose of this app Toronto Transit Commission data from [11 October 2020 - 21 November 2020](https://transitfeeds.com/p/ttc/33/latest) was used.
 
 To use this map Google Map API key is required from https://console.developers.google.com/. Enter the API Key under register_google funcion.
 
