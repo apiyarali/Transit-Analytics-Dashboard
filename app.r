@@ -113,7 +113,9 @@ sidebar <- dashboardSidebar(width = 350,
               h5("Data Source is", a(href = "https://transitfeeds.com/p/ttc/33", "GTFS.")),
               h5("Data feed is from", a(href = "https://transitfeeds.com/p/ttc/33/latest","11 October 2020 - 21 November 2020.")),
               h5("Data is publicly avaialable"),
-              hr()
+              hr(),
+              h5("Source Code for this app can be accessed via"),
+              h5(a(href = "https://github.com/apiyarali/Transit-Analytics-R","Git Hub"))
   )   
 )
 body <- dashboardBody(
